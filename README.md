@@ -1,6 +1,4 @@
-## Hello,
-
-I'm a 3rd year Computer Science student at Swansea University, with interests in Web Development, Video Game Development, and Embedded Systems.
+## Hello
 
 <!--
 **nylecm/nylecm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
