@@ -1,4 +1,4 @@
-## Hello
+## Michal Nylec 👨‍💻
 
 Hey, I’m Michal — a backend-leaning full-stack developer who builds clean, scalable systems and knows when to automate.
 
